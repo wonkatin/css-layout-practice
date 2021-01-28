@@ -14,6 +14,23 @@ In this assignment, you're going to use your formidable CSS skills to mock up th
 * Do your best to match the colors in the boxes where applicable.
 * Note the thickness of the border lines and match that as closely as possible.
 
+## Layout 1
+
+[Tableau II](http://www.piet-mondrian.org/tableau-ii.jsp)
+(Command-click to open in new tab.)
+
+## Layout 2
+
+[Tableau I](http://www.piet-mondrian.org/tableau-i.jsp) (Command-click to open in new tab.)
+
+## Layout 3
+
+[Composition C](http://www.piet-mondrian.org/composition-c.jsp) (Command-click to open in new tab.)
+
+## Layout 4
+
+[Composition II in red blue and yellow](http://www.piet-mondrian.org/composition-ii-in-red-blue-and-yellow.jsp) (Command-click to open in new tab.)
+
 ## Deliverable
 
 A working HTML and CSS solution that matches the layout in the art image.
