@@ -1,3 +1,53 @@
-h1 {
-  color: rebeccapurple;
+.artbox {
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7%;
+  grid-template-rows: 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7% 7.7%;
+  width: 400px;
+  height: 450px;
+}
+div {
+  border: solid;
+  border-color: black;
+}
+.one {
+  grid-column: 1 / 6;
+  grid-row: 1 / 2;
+
+}
+.two {
+  grid-column: 6 / 11;
+  grid-row: 1 / 2;
+  background-color: yellow;
+}
+.three {
+  grid-column: 11 / 14;
+  grid-row: 1 / 4;
+  background-color: black;
+}
+.four {
+  grid-column: 1 / 2;
+  grid-row: 2 / 6;
+}
+.five {
+  grid-column: 2 / 11;
+  grid-row: 2 / 10;
+}
+.six {
+  grid-column: 11 / 14;
+  grid-row: 4 / 13;
+}
+.seven {
+  grid-column: 1 / 2;
+  grid-row: 6 / 10;
+  background-color: blue;
+}
+.eight {
+  grid-column: 1 / 11;
+  grid-row: 10 / 14;
+}
+.nine {
+  grid-column: 11 / 14;
+  grid-row: 13 / 14;
+  background-color: red;
 }
